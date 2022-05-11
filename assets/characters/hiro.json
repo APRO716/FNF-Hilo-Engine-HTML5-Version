@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-38,
+				-15
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "hiro idle"
+		},
+		{
+			"offsets": [
+				1,
+				19
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left hiro"
+		},
+		{
+			"offsets": [
+				-55,
+				-61
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "hirodown"
+		},
+		{
+			"offsets": [
+				-46,
+				53
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "hiro up"
+		},
+		{
+			"offsets": [
+				-39,
+				15
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right hiro"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/hilo mod lol",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "iconhiro",
+	"flip_x": false,
+	"healthbar_colors": [
+		241,
+		120,
+		20
+	],
+	"camera_position": [
+		20,
+		130
+	],
+	"sing_duration": 6.1,
+	"scale": 0.7
+}
